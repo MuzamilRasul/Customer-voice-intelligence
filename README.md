@@ -48,6 +48,10 @@ The project combines \*\*Natural Language Processing, Machine Learning, Transfor
 
 \---
 
+## Dashboard Preview
+
+![Customer Voice Intelligence Dashboard](assets/dashboard overview.png)
+
 
 
 \## Key Capabilities
