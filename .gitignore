@@ -22,6 +22,11 @@ data/interim/*
 # Large processed datasets
 data/processed/*.csv
 
+# Deployment datasets
+!data/processed/customer_voice_corpus.csv
+!data/processed/customer_voice_aspects.csv
+!data/processed/aspect_level_sentiment.csv
+
 # Model artifacts
 artifacts/*
 *.safetensors
