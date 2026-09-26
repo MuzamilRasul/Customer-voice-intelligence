@@ -41,6 +41,10 @@ Customer Voice Intelligence Platform analyzes customer reviews to understand:
 The project combines \*\*Natural Language Processing, Machine Learning, Transformer Models, Feature Engineering, Business Intelligence, and Interactive Data Visualization\*\* into a single analytics platform.
 
 
+## Dashboard Preview
+
+<img width="918" height="437" alt="Screenshot 2026-09-26 145254" src="https://github.com/user-attachments/assets/003d8a4e-9520-4567-b9a1-8423ad2efb1b" />
+
 
 \---
 
