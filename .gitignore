@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Local/raw data
+data/raw/*
+data/interim/*
+
+# Large processed datasets
+data/processed/*.csv
+
+# Model artifacts
+artifacts/*
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Environment/secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
